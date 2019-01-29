@@ -13,7 +13,7 @@
     "UIName": "Valkyrie",
     "Id": "chassisdef_Valkyrie_VLK-QS5",
     "Name": "Valkyrie",
-    "Details": "The Valkyrie is a heavily armored mobile light mech with long range support capability <b><color=#53ff1a>Restricted Actuators- Left: Lower</color></b>",
+    "Details": "Built by the Word of Blake starting in 3072, this Valkyrie variant carries an Artemis IV-enhanced MML-7 and medium laser. The 'Mech has a Light Fusion Engine, Endo Steel structure, and is protected by Light Ferro-Fibrous armor. <b><color=#53ff1a>Restricted Actuators- Left: Lower</color></b>",
     "Icon": "valkyrie"
   },
   "MovementCapDefID": "movedef_Valkyrie_VLK",
